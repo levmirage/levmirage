@@ -4,7 +4,7 @@
 
 Hello, I'm Lev, a 3D product visualizer who develops games in my free time. If you have any questions for me, feel free to reach out on Discord: `levmirage`.
 
-Привет, я Лев. 3д Мизуализатор продуктов который в свободное время разрабатывает игры. если у вас есть какие-то вопросы ко мне - напишите мне в дискорд: `levmirage`.
+Привет, я Лев. 3д визуализатор продуктов который в свободное время разрабатывает игры. если у вас есть какие-то вопросы ко мне - напишите мне в дискорд: `levmirage`.
 
 **Find more info on my Website! - Coming soon**
 
