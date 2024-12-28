@@ -6,6 +6,6 @@ Hello, I'm Lev, a 3D product visualizer who develops games in my free time. If y
 
 Привет, я Лев. 3д визуализатор продуктов который в свободное время разрабатывает игры. если у вас есть какие-то вопросы ко мне - напишите мне в дискорд: `levmirage`.
 
-**Find more info on my Website! - Coming soon**
+**Find more info on my Website! - [Click Here!](https://levmirage.github.io/MirageCV/)**
 
 🔋 ****My Software: Blender, Visual Studio, Unreal Engine 5, Figma, Photoshop, Premiere.****
